@@ -1,4 +1,4 @@
-// chaiaurcode.js
+
 
 window.addEventListener("scroll", () => {
   const scrollTop = window.scrollY; // amount scrolled from the top

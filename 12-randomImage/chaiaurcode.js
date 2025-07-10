@@ -1,4 +1,4 @@
-const baseURL = 'https://source.unsplash.com/random/'; // more reliable for random images
+const baseURL = 'https://source.unsplash.com/random/'; 
 const container = document.querySelector('.content');
 const button = document.querySelector('button');
 const rows = 7; // You want rows * 3 images
